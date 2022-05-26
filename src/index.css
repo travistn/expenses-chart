@@ -1,0 +1,8 @@
+:root {
+  --color-softRed: hsl(10, 79%, 65%);
+  --color-cyan: hsl(186, 34%, 60%);
+  --color-darkBrown: hsl(25, 47%, 15%);
+  --color-mediumBrown: hsl(28, 10%, 53%);
+  --color-cream: hsl(27, 66%, 92%);
+  --color-paleOrange: hsl(33, 100%, 98%);
+}
