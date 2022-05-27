@@ -5,6 +5,7 @@
   height: 125px;
   border-radius: 20px;
   background-color: var(--color-softRed);
+  align-items: center;
 }
 
 .balanceHeader-content {
@@ -23,4 +24,8 @@
   font-weight: 700;
   font-size: 30px;
   margin-top: 0.5rem;
+}
+
+.balanceHeader-logo {
+  margin-left: 14rem;
 }
