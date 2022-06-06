@@ -3,3 +3,9 @@
   justify-content: center;
   margin-top: 10rem;
 }
+
+@media screen and (max-width: 415px) {
+  .dashboard__container {
+    margin-top: 4rem;
+  }
+}

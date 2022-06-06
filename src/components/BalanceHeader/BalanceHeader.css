@@ -29,3 +29,18 @@
 .balanceHeader-logo {
   margin-left: 14rem;
 }
+
+@media screen and (max-width: 415px) {
+  .balanceHeader__container {
+    width: 100%;
+    margin: auto;
+  }
+
+  .balanceHeader-content h5 {
+    font-size: 16px;
+  }
+
+  .balanceHeader-logo {
+    margin-left: 7rem;
+  }
+}
